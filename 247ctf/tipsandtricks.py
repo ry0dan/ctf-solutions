@@ -3,7 +3,7 @@
 from pwn import *
 import re
 
-io = remote('ea65cac93d1ef607.247ctf.com' , 50466)
+io = remote('ea65cac93d1ef607.247ctf.com' , 50466) #change this informations
 
 print(io.recvline())
 print(io.recvline())
