@@ -1,7 +1,7 @@
 from pwn import *
 
-url = "6d3d1801411b6435.247ctf.com"
-port = 50346
+url = "6d3d1801411b6435.247ctf.com" #change this
+port = 50346 #change this
 
 for i in range(50, 100):
     conn = remote(url, port)
