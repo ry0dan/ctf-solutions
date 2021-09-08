@@ -1,6 +1,6 @@
 # ctf-solutions
-this repo will contain various solutions to some ctf's i played
+this repo will contain various solutions to some CTFs.
 
-each code you see here has an explanation on this blog 
+each code you encounter here has an explanation on this blog. 
 
 https://riodan.medium.com/
